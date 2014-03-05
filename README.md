@@ -11,6 +11,6 @@ PaydayR specialises in connecting consumers with [same day payday loans](http://
 
 About PaydayR http://about.me/PaydayR
 
-For more information on the Money Manager project and more from PaydayR, go to http://paydayr.com or connect with us on Google+ at http://www.google.com/+PaydayR
+For more information on the Money Manager project and more from PaydayR, go to http://paydayr.com or connect with us on Google+ at https://plus.google.com/+Paydayr
 
 Money Manager by PaydayR is licensed under GNU General Public License version 3.0 (GPLv3)
